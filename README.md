@@ -13,6 +13,20 @@ A next-generation work operating system that combines Monday.com's workflow flex
 - **Powerful Integrations**: 100+ integrations with bi-directional sync
 - **Enterprise Security**: SSO, RBAC, audit logs, compliance
 
+## 📸 Screenshots
+
+> **Note:** Screenshots will be added as the application is developed. See [screenshots/README.md](./screenshots/README.md) for guidelines.
+
+### Coming Soon
+- Dashboard overview
+- Board view with Kanban columns
+- Workflow management interface
+- Analytics dashboard
+- Automation builder
+- AI optimization suggestions
+
+To add screenshots, place them in the `screenshots/` directory and update this section.
+
 ## 📁 Project Structure
 
 ```
